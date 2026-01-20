@@ -9,6 +9,6 @@ server:
   port: 8080
 
 razorpay:
-  key-id: rzp_test_S64vg7iBBT6ZfU
-  key-secret: 2NiEbaNheXvcnOPrlu9fzxCb
+  key-id: ###
+  key-secret: ###
 
