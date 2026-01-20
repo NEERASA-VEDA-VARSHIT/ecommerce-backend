@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: ecommers
+
+  mongodb:
+    uri: mongodb://localhost:27017/ecommerce_db
+server:
+
+  port: 8080
+
+razorpay:
+  key-id: rzp_test_S64vg7iBBT6ZfU
+  key-secret: 2NiEbaNheXvcnOPrlu9fzxCb
+
